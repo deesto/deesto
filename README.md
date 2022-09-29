@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deesto
-- 👀 I’m interested in technology, communication, guitar, etc.
-<!--- - 🌱 I’m currently learning ... --->
-- 💞️ I’m looking to collaborate on music and tech projets.
+- 👀 I’m interested in technology, communication, guitar, etc. <!--- - 🌱 I’m currently learning ... --->
+- 💞️ I’m looking to collaborate on music and tech projects.
 - 📫 You can always reach out to me here.
 
 <!---
